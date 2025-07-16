@@ -8,7 +8,8 @@ It is based on the kaggle dataset: https://www.kaggle.com/datasets/rohitsahoo/sa
 ## 📊 Dashboard Overview
 
 <img width="684" height="395" alt="image" src="https://github.com/user-attachments/assets/162497a2-39af-4181-a892-fa35f6b497c7" />
-
+<img width="685" height="396" alt="image" src="https://github.com/user-attachments/assets/4800c751-557b-4d73-a4db-350f590ce96b" />
+<img width="684" height="391" alt="image" src="https://github.com/user-attachments/assets/e28d518a-b0e2-4c5c-98ce-1540983a4197" />
 
 
 The dashboard provides a multi-angle view of sales in a retail setting, covering:
