@@ -7,6 +7,10 @@ It is based on the kaggle dataset: https://www.kaggle.com/datasets/rohitsahoo/sa
 
 ## 📊 Dashboard Overview
 
+<img width="684" height="395" alt="image" src="https://github.com/user-attachments/assets/162497a2-39af-4181-a892-fa35f6b497c7" />
+
+
+
 The dashboard provides a multi-angle view of sales in a retail setting, covering:
 
 - **Sales Performance**
