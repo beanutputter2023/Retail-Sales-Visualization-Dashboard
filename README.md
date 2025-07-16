@@ -70,7 +70,7 @@ This dashboard empowers stakeholders to:
 
 **Iru Niroula**  
 Technical Business Analyst | Software Engineer  
-[LinkedIn]((https://www.linkedin.com/in/iru-niroula-6430771b2/))
+LinkedIn: https://www.linkedin.com/in/iru-niroula-6430771b2/
 
 ---
 
